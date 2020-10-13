@@ -74,6 +74,7 @@ export const Search = styled.div`
 
 export const SearchIcon = styled.button`
   cursor: pointer;
+  outline: none;
   background-color: transparent;
   border: 0;
   img {
